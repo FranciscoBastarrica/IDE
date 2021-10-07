@@ -3,7 +3,7 @@
 ## Introducción
 
 ## Indice
-[instalación de Netbeans 12] ()
+[instalación de Netbeans 12] (/netbeans12)
 
 [Instalación de Nebeans 8] ()
 
