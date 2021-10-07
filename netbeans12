@@ -1,7 +1,24 @@
 # Instalación de Netbeans 12
 
-## Paso 1
+## Paso 1 Comprobar java
 
 Comprobando la versión de java con el comando:
 java-version
 
+<img src="FOTO" width=500px">
+
+## Paso 2 La instalación
+
+Para instalar netbeans 12, se ejecutó el siguiente comando:
+
+sudo snap install netbeans --classic
+
+FOTO
+
+La instalación finaliza con este mensaje:
+
+netbeans 12.5 from Apache NetBeans✓ installed
+
+## Paso 3 Comprobar que arranca
+
+Para iniciar Netbeans 12 en el ubuntu desde las aplicaciones o desde la terminal.
