@@ -34,7 +34,7 @@ Este pack contiene las extensiones que juntas nos brindan todas las herramientas
 Para poder ver quién cambió la línea de código en la que estoy y cuándo, ver el historial de cambios de cada archivo, diferenciar entre cambios, etc. 
 
 <img src="04vs.png" width="600" heigh="600">
-<img src="13vs.png" width="300" heigh="600">
+<img src="13vs.png" width="600" heigh="600">
 
 ### Extensión: Visual Studio IntelliCode
 Ahorra tiempo al poner lo que es más probable que use en la parte superior de la lista de finalización. Las recomendaciones de IntelliCode se basan en miles de proyectos de código abierto en GitHub.
@@ -68,6 +68,6 @@ Ayuda a poder visualizar tanto en el mini mapa como en el código en sí dichos 
 Para colorear la sangría frente a su texto alternando cuatro colores.
 
 <img src="10vs.png" width="600" heigh="600">
-<img src="14vs.png" width="800" heigh="600">
+<img src="14vs.png" width="600" heigh="600">
 
 Queda instalado el IDE VS-Code y algunas extensiones para facilitar los trabajos.
