@@ -8,6 +8,6 @@ Instalación de los IDE Netbeans 12 y 8, IntelliJ IDEA, VS-Code.
 
 [Instalación de Nebeans 8](netbeans8.md)
 
-[Instalación Intellij IDEA]()
+[Instalación Intellij IDEA](intellij.md)
 
 [Instalación VS-Code]()
