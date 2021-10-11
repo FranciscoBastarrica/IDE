@@ -1,24 +1,22 @@
 # Instalación de Netbeans 12
 
-## Paso 1 Comprobar java
+## Paso 1. Comprobando la versión de java instalada.
+Se utiliza con el comando: 
 
-Comprobando la versión de java con el comando:
-java-version
+java -version
 
-<img src="FOTO" width=500px">
+<img src="01" width=500px">
 
-## Paso 2 La instalación
+## Paso 2. Instalación del Ide Netbeans 12
+Se ejecuta el comando:
 
-Para instalar netbeans 12, se ejecutó el siguiente comando:
+sudo snap install netbeans –classic
 
-sudo snap install netbeans --classic
+La instalación finalizó con esta pantalla:
 
-FOTO
+<img src="02" width=500px">
 
-La instalación finaliza con este mensaje:
+## Paso 3. Ejecución del ide
+Ya está instalado en el sistema dentro de la máquina virtual, lo localizamos en la relación de programas y lo ejecutamos para comprobar que funciona.
 
-netbeans 12.5 from Apache NetBeans✓ installed
-
-## Paso 3 Comprobar que arranca
-
-Para iniciar Netbeans 12 en el ubuntu desde las aplicaciones o desde la terminal.
+<img src="03" width=500px">
