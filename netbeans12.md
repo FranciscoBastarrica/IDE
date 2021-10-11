@@ -1,5 +1,7 @@
 # Instalación de Netbeans 12
 
+<img src="04nb12.png" width="200" heigh="200">
+
 ## Paso 1. Comprobando la versión de java instalada.
 Se utiliza con el comando: 
 
