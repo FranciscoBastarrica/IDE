@@ -5,7 +5,7 @@ Se utiliza con el comando:
 
 java -version
 
-<img src="01" width=500px">
+<img src="01netbeans12-comprobarversion.png" width=500px">
 
 ## Paso 2. Instalación del Ide Netbeans 12
 Se ejecuta el comando:
@@ -14,9 +14,9 @@ sudo snap install netbeans –classic
 
 La instalación finalizó con esta pantalla:
 
-<img src="02" width=500px">
+<img src="02instalacionnetbeans.png" width=500px">
 
 ## Paso 3. Ejecución del ide
 Ya está instalado en el sistema dentro de la máquina virtual, lo localizamos en la relación de programas y lo ejecutamos para comprobar que funciona.
 
-<img src="03" width=500px">
+<img src="03netbeansfuncionando.png" width=500px">
