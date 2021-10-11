@@ -14,9 +14,9 @@ sudo snap install netbeans –classic
 
 La instalación finalizó con esta pantalla:
 
-<img src="02instalacionnetbeans.png" width=500px">
+<img src="02instalacionnetbeans.png" width="600" heigh="600">
 
 ## Paso 3. Ejecución del ide
 Ya está instalado en el sistema dentro de la máquina virtual, lo localizamos en la relación de programas y lo ejecutamos para comprobar que funciona.
 
-<img src="03netbeansfuncionando.png" width=500px">
+<img src="03netbeansfuncionando.png" width="600" heigh="600">
