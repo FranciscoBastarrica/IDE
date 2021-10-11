@@ -1,6 +1,6 @@
 # Instalación del IDE IntelliJ IDEA
 
-<img src="06ij.png" width="200" heigh="200">
+<img src="04ij.png" width="200" heigh="200">
 
 ## Paso 1. Comprobar versión de Java.
 Para verificarlo se ejecuta por línea de comando:
