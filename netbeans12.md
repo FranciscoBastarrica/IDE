@@ -5,7 +5,7 @@ Se utiliza con el comando:
 
 java -version
 
-<img src="01netbeans12-comprobarversion.png" width=500px">
+<img src="01netbeans12-comprobarversion.png" width="600" heigh="600">
 
 ## Paso 2. Instalación del Ide Netbeans 12
 Se ejecuta el comando:
