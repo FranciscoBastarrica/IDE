@@ -68,6 +68,6 @@ Ayuda a poder visualizar tanto en el mini mapa como en el código en sí dichos 
 Para colorear la sangría frente a su texto alternando cuatro colores.
 
 <img src="10vs.png" width="600" heigh="600">
-<img src="14vs.png" width="600" heigh="600">
+<img src="14vs.png" width="600" heigh="300">
 
 Queda instalado el IDE VS-Code y algunas extensiones para facilitar los trabajos.
