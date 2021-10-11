@@ -45,13 +45,13 @@ Ahorra tiempo al poner lo que es más probable que use en la parte superior de l
 Ayuda a encontrar la ruta de un fichero en el proceso de desarrollo de una aplicación de una manera muy rápida y dinámica.
 
 <img src="06vs.png" width="600" heigh="600">
-<img src="15vs.png" width="300" heigh="600">
+<img src="15vs.png" width="600" heigh="600">
 
 ### Extensión: Bracket Pair Colorizer
 Colorea los corchetes, llaves y paréntesis de inicio y fin de un bloque de código. Lo cual facilita muchísimo la lectura del código.
 
 <img src="07vs.png" width="600" heigh="600">
-<img src="11vs.png" width="300" heigh="600">
+<img src="11vs.png" width="600" heigh="600">
 
 ### Extensión: Prettier Code formatter
 Se utiliza para formatear automáticamente tu código, soportando la sintaxis de una gran cantidad de lenguajes.
@@ -62,12 +62,12 @@ Se utiliza para formatear automáticamente tu código, soportando la sintaxis de
 Ayuda a poder visualizar tanto en el mini mapa como en el código en sí dichos colores ya renderizados. Podemos personalizar si los queremos ver como fondo, como línea debajo del texto, o hacer que el código del color en sí sea del color.
 
 <img src="09vs.png" width="600" heigh="600">
-<img src="12vs.png" width="300" heigh="600">
+<img src="12vs.png" width="600" heigh="600">
 
 ### Extensión: Indent Rainblow
 Para colorear la sangría frente a su texto alternando cuatro colores.
 
 <img src="10vs.png" width="600" heigh="600">
-<img src="14vs.png" width="300" heigh="600">
+<img src="14vs.png" width="800" heigh="600">
 
 Queda instalado el IDE VS-Code y algunas extensiones para facilitar los trabajos.
