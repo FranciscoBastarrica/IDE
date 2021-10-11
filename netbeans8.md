@@ -16,6 +16,7 @@ Se descarga la versión jdk-8u111-nb-8_2-linux-x64.sh
 
 ## Paso 3. Instalación del IDE Netbeans 8
 Ya lo tengo descargado en la carpeta local de la maquina virtual, y procedo a la instalación con el siguiente comando:
+
 /home/franciscobc/Descargas/jdk-8u111-nb-8_2-linux-x64.sh
 
 <img src="03.png" width="600" heigh="600">
